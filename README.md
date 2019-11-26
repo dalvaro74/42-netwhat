@@ -1,6 +1,6 @@
 # netwhat42
 
-**Questions : 37**.<br/><br/>
+**Preguntas : 37**.<br/><br/>
 
 Pour lancer le script :<br/>
 ./netwhat42 [nombre]<br/><br/>
@@ -9,9 +9,10 @@ Le QCM est valide seulement si toutes les questions sont justes.
 
 ---------------------------------------------------------------------------------
 
-To launch the script: <br/>
-./netwhat42 [number]<br/><br/>
-Use the directional arrows and the enter key to answer the questions. <br/>
-The MCQ is valid only if all questions are correct.
+Para ejecutar el script: <br/>
+./netwhat42 o bash netwhat42 <br/><br/>
+Selecciona tu idioma. <br/>
+Utiliza el cursor del teclado para seleccionar una respuesta. <br/>
+Si todas las respuestas son correctas superas el test.
 
 ![Screenshot question](https://i.imgur.com/y2WvYOw.png)
