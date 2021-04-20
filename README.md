@@ -3,10 +3,8 @@
 **Preguntas : 37**.<br/><br/>
 
 1.-     git clone https://github.com/ccardozom/netwhat42.git <br/>
-2.-     Para ejecutar el script: <br/>
-3.-     ./netwhat42 o bash netwhat42 <br/>
-4.-     Seleccionar idioma. <br/>
-5.-     Utiliza el cursor del teclado para seleccionar una respuesta. <br/><br/>
+2.-     Para ejecutar el script: ./netwhat42 o bash netwhat42 <br/>
+3.-     Seleccionar idioma y utilizar el cursor del teclado para seleccionar una respuesta. <br/><br/>
 
 Si todas las respuestas son correctas superas el test.
 
